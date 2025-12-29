@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;System+Architect;Commited+to+Excellence." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Software+Engineer;Commited+to+Excellence." alt="Typing SVG" />
   <p align="center">
     <a href="https://linkedin.com/in/bassiony17">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
